@@ -20,5 +20,6 @@ This repository contains my Data Science projects, completed in Python and using
 | Project Name | Resource link | Completed |
 |--------------|---------------|-----------|
 | Restaurant's cuisine ratings data (for EDA) | [Kaggle](https://www.kaggle.com/datasets/surajjha101/cuisine-rating) | ✔  |
+| Restaurant's cuisine ratings data (Regression) | [Kaggle](https://www.kaggle.com/datasets/surajjha101/cuisine-rating) | ✔  |
 | ... | ... | ❌ |
 | tbc | tbc | ❌ |
