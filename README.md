@@ -21,8 +21,7 @@ This repository contains my Data Science projects, completed in Python and using
 |--------------|---------------|-----------|
 | Restaurant's cuisine ratings data (for EDA) | [Kaggle](https://www.kaggle.com/datasets/surajjha101/cuisine-rating) | ✔  |
 | Restaurant's cuisine ratings data (Regression) | [Kaggle](https://www.kaggle.com/datasets/surajjha101/cuisine-rating) | ✔  |
-| Mobile Price (EDA)| [Kaggle](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification)| | ✔  |
-| Mobile Price (Classification)| [Kaggle](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification)| | ✔  |
-
+| Mobile Price (EDA)| [Kaggle](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification) | ✔  |
+| Mobile Price (Classification)| [Kaggle](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification) | ✔  |
 | ... | ... | ❌ |
 | tbc | tbc | ❌ |
