@@ -24,6 +24,6 @@ This repository contains my Data Science projects, completed in Python and using
 | Mobile Price (EDA)| [Kaggle](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification) | ✔  |
 | Mobile Price (Classification)| [Kaggle](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification) | ✔  |
 | House price (for EDA) | [Kaggle](https://www.kaggle.com/competitions/home-data-for-ml-course) | ✔  |
-| House price (Regression) | [Kaggle](https://www.kaggle.com/competitions/home-data-for-ml-course) | ❌  |
+| House price (Regression) | [Kaggle](https://www.kaggle.com/competitions/home-data-for-ml-course) | ✔  |
 | ... | ... | ❌ |
 | tbc | tbc | ❌ |
